@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "re-buildnetauth/1.0.0": {
+        "runtime": {
+          "re-buildnetauth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "re-buildnetauth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
